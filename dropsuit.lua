@@ -7,7 +7,7 @@ local SuitWillDrop = 3 -- To prevent people stealing others suits
 
 -- If you want a custom messages change them here
 
-local DropDelayMessage = "Your suit will drop in " .. tostring (DropsuitCooldown) .. " Seconds"
+local DropDelayMessage = "Your suit will drop in " .. tostring (SuitWillDrop) .. " Seconds"
 
 local SuitDropped = "You have dropped your suit"
 
