@@ -1,4 +1,4 @@
-# Dropsuit-Command-Gmod
+# Dropsuit-Command-Gmod + Bonus Crate Text
 
 (Please bear in mind that I am bad at gmod development and a lot of this is done using bad, unoptimised practises. But it does work.)
 
