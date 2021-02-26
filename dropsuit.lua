@@ -1,9 +1,9 @@
 -- Config (Change the settings here)
 
 -- If you want a cooldown and delay on the dropsuit command put it here in seconds 0 to disable
-local DropsuitCooldown = 0
+local DropsuitCooldown = 60 -- To prevent people resuiting to regain health multiple times in a fight
 
-local SuitWillDrop = 0
+local SuitWillDrop = 3
 
 -- If you want a custom messages change them here
 
