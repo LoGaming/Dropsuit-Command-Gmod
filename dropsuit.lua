@@ -3,7 +3,7 @@
 -- If you want a cooldown and delay on the dropsuit command put it here in seconds 0 to disable
 local DropsuitCooldown = 60 -- To prevent people resuiting to regain health multiple times in a fight
 
-local SuitWillDrop = 3
+local SuitWillDrop = 3 -- To prevent people stealing others suits
 
 -- If you want a custom messages change them here
 
