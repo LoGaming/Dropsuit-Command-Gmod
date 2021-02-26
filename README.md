@@ -7,7 +7,7 @@ https://gmodstore.com/market/view/armor-suits-now-with-saving-options
 
 Installation:
 
-1) Download the "dropsuit.lua" and put it in the "/lua/autorun" folder e.g. /armor_6/lua/autorun/dropsuit/lua
+1) Download the "dropsuit.lua" and put it in the "/lua/autorun" folder e.g. /armor_6/lua/autorun/dropsuit.lua
 
 2) Edit the config at the top of the "dropsuit.lua" file to choose whether or not you want a drop delay and a command cooldown, how long the cooldown and delay should be and the messages that are sent in chat.
 
