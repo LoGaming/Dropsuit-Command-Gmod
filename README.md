@@ -2,7 +2,7 @@
 
 (Please bear in mind that I am bad at gmod development and a lot of this is done using bad, unoptimised practises. But it does work.)
 
-This is the code that adds the /dropsuit command to the addon
+This is the custom code that adds the /dropsuit command to this gmodstore addon addon
 https://gmodstore.com/market/view/armor-suits-now-with-saving-options
 
 Installation:
