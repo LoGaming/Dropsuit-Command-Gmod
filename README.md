@@ -2,6 +2,8 @@
 
 By the way if you like the code and want better hosting than you have atm use code DROPSUIT at my hosting https://horizonnetworks.uk
 
+Big thanks to bully hunter for optimizing my poo poo code!
+
 (Please bear in mind that I am bad at gmod development and a lot of this is done using bad, unoptimised practises. But it does work.)
 
 This is the custom code that adds the /dropsuit command to this gmodstore addon addon
