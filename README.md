@@ -1,6 +1,6 @@
 # Dropsuit Command + Nicer Crate Text
 
-By the way if you like the code and want better hosting than you have atm use code DROPSUIT at my hosting https://horizonnetworks.uk
+By the way if you like the code and want better hosting than you have atm use code DROPSUIT at my hosting https://hrznhosting.com/
 
 Big thanks to bully hunter for optimizing my poo poo code!
 
