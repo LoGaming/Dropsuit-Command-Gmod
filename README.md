@@ -26,8 +26,3 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2408854329
 ![image](https://user-images.githubusercontent.com/75227030/109352637-0aa3a100-7873-11eb-90ca-981bdfc5eb8d.png)
 
 ![image](https://user-images.githubusercontent.com/75227030/109352716-27d86f80-7873-11eb-9fdd-b4f2cd8c226f.png)
-
-Helpful Information: 
-https://statutes.capitol.texas.gov/Docs/PE/htm/PE.9.htm#C
-https://statutes.capitol.texas.gov/Docs/PE/htm/PE.9.htm#D
-https://teenage.engineering/products/cm-15
